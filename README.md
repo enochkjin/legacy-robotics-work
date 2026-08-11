@@ -1,2 +1,2 @@
-# spectrophotometer
-My work on a spectrophotometer payload system during my time on Legacy Robotics at UCI
+# Life-Detection Payload
+My work on a spectrophotometer and NPK sensor based payload system during my time on Legacy Robotics at UCI.
